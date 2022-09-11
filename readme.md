@@ -13,17 +13,17 @@
 ***
 ## Description
 
-This project [Shopify Home Page]() was built using Semantic HTML and **Tailwind** from scratch. It took me almost 10 hours to make **Shopify** Home page clone. This is one of those websites which test your learning and writing the code which is efficient. **Tailwind** is a utility-first CSS framework in which we can directly write classes in the markup. This project helped me a lot in understanding the basic yet effective Tailwind concepts. This project hepled me understanding concepts like grid, animation & transistion in Tailwind css. The main learning after building this project is to make complex responsive design simpler and easier and faster with **Tailwindcss** screen breakpoints. Also a great credit to [Shopify](https://www.shopify.com/in) developers as I learnt best use case scenarios of Tailwind. The Project was completed under guidance of [Hitesh Choudhary](https://github.com/hiteshchoudhary), CTO Ineuron
+This project [Shopify Home Page](https://shopify-home.netlify.app/) was built using Semantic HTML and **Tailwind** from scratch. It took me almost 10 hours to make **Shopify** Home page clone. This is one of those websites which test your learning and writing the code which is efficient. **Tailwind** is a utility-first CSS framework in which we can directly write classes in the markup. This project helped me a lot in understanding the basic yet effective Tailwind concepts. This project hepled me understanding concepts like grid, animation & transistion in Tailwind css. The main learning after building this project is to make complex responsive design simpler and easier and faster with **Tailwindcss** screen breakpoints. Also a great credit to [Shopify](https://www.shopify.com/in) developers as I learnt best use case scenarios of Tailwind. The Project was completed under guidance of [Hitesh Choudhary](https://github.com/hiteshchoudhary), CTO Ineuron
 
 ***
 
 ### Links for Project
 
-* [LIVE Project Link]()
+* [LIVE Project Link](https://shopify-home.netlify.app/)
 
-* [Youtube Video Demo]()
+* [Youtube Video Demo](https://youtu.be/Y5QKiEOg8Hk)
 
-* [Source Code]()
+* [Source Code](https://github.com/ShubhamSingh03/Shopify_clone)
 
 ***
 ### Built With 
@@ -100,17 +100,16 @@ This project [Shopify Home Page]() was built using Semantic HTML and **Tailwind*
 
 ### Checkout Portfolio & Other Projects
 
-#### [Personal Portfolio]()
+#### [Personal Portfolio](https://shubhambhoj.in/)
 
+#### [Findcoder Profile](https://www.findcoder.io/u/shubham_singh)
 
-#### [Findcoder Profile]()
 ***
-
 ### Connect with Me
 * [Mailto](mailto:shubhambhoj3@gmail.com)
 * [LinkedIn](https://www.linkedin.com/in/shubham-singh-b122b7171/)
 * [Github](https://github.com/ShubhamSingh03)
-* [Findcoder]()
+* [Findcoder](https://www.findcoder.io/u/shubham_singh)
 ***
 ***
 [go to top](#shopify-home-page)
